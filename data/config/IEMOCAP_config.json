@@ -1,0 +1,7 @@
+{
+    "data_root": "/data8/hzp/datasets/IEMOCAP_full_release/",
+    "target_root": "/data8/hzp/datasets/IEMOCAP_features_npy/target",
+    "total_cv": 10,
+    "feature_root": "/data8/hzp/datasets/IEMOCAP_features_npy/feature",
+    "face_root": "/data8/hzp/datasets/IEMOCAP_frames_and_faces"
+}

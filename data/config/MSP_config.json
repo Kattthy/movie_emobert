@@ -1,0 +1,6 @@
+{
+    "data_root": "/data6/lrc/MSP-IMPROV",
+    "target_root": "/data8/hzp/feature_and_target_hzp/MSP_target/",
+    "feature_root": "/data8/hzp/feature_and_target_hzp/MSP_feature/",
+    "total_cv": 12
+}

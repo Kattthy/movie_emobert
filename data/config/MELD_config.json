@@ -1,0 +1,6 @@
+{
+    "data_root": "/data8/hzp/datasets/MELD_process",
+    "target_root": "/data8/hzp/feature_and_target_hzp/MELD_target",
+    "feature_root": "/data8/hzp/feature_and_target_hzp/MELD_feature",
+    "total_cv": 1
+}
